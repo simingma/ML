@@ -56,6 +56,9 @@ Coursera 2013, English, Advanced.
 >* [Learning to predict the next character using HF](https://www.youtube.com/watch?v=tC6Yf9_Wry8&list=PLiPvV5TNogxKKwvKb1RKwkq2hm7ZvpHz0&index=44)
 >* [Echo state networks](https://www.youtube.com/watch?v=T12mA9h1VRs&index=45&list=PLiPvV5TNogxKKwvKb1RKwkq2hm7ZvpHz0)
 
+Videos in L1~L8 that might worth watching are saved in my YouTube as "Watch Later"
+From this point on (>=L9), all later videos might be worth watching!
+
 * [L9 : Ways to make neural networks generalize better](https://www.youtube.com/watch?v=lbjlTd9wxWU&list=PLiPvV5TNogxKKwvKb1RKwkq2hm7ZvpHz0&index=53)
 >* [Overview of ways to improve generalization](https://www.youtube.com/watch?v=kyuEpwOp1K0&list=PLiPvV5TNogxKKwvKb1RKwkq2hm7ZvpHz0&index=47)
 >* [Limiting the size of the weights](https://www.youtube.com/watch?v=Gi36wfl6BAw&index=48&list=PLiPvV5TNogxKKwvKb1RKwkq2hm7ZvpHz0)
